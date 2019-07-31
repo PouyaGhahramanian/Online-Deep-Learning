@@ -1,2 +1,2 @@
 # Online-Deep-Learning
-Tensorflow implementation of the "Online Deep Learning: Learning Deep Neural Networks on the Fly" paper.
+Learning Deep Neural Networks On Data Streams.
